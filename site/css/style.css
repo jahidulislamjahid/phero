@@ -3,13 +3,22 @@ body{
 }
 .flex-display{
     display: flex;
+    padding-left: 20PX;
+    margin: auto;
 }
 .orange-text{
     color: orangered;
 }
 .big-font{
+    font-size: 50px;
     font-weight: 700;
 }
+H2{
+    font-size: 35PX;
+}
 .half-size{
-    
+    width: 100%;    
+}
+p{
+    text-align: justify;
 }
