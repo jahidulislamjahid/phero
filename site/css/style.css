@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.flex-display{
+    display: flex;
+}
+.orange-text{
+    color: orangered;
+}
+.big-font{
+    font-weight: 700;
+}
