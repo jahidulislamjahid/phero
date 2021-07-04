@@ -17,9 +17,16 @@ H2{
 .half-size{
     width: 70%;
     padding-left: 2%;
-    margin-left: 5%;   
+    margin-left: 5%; 
+    margin-bottom: 200px;  
 }
 p{
     text-align: justify;
     color: gray;
+}
+.hire-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
