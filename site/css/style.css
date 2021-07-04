@@ -34,15 +34,19 @@ p{
 .shadow-box{
     box-shadow: 10px 10px 5px gray;
     padding-left: 10px;
+    text-align: center;
 }
 #stack{
     border-left: 10px solid;
-    border-image: linear-gradient(orangered cyan);
+    border-radius: 5px;
+    border-image: linear-gradient(180deg blue red);
+    border-image-slice: 1;
 }
 #baby{
     border-left: 10px solid;
-    border-color: linear-gradient(orange cyan);
-
+    border-radius: 5px;
+    border-image: linear-gradient(orange teal)
+    border-image-slice: 1;
 }
 footer{
     text-align: center;
