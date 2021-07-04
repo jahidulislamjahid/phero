@@ -3,8 +3,6 @@ body{
 }
 .flex-display{
     display: flex;
-    padding-left: 20PX;
-    margin: auto;
 }
 .orange-text{
     color: orangered;
@@ -17,7 +15,9 @@ H2{
     font-size: 35PX;
 }
 .half-size{
-    width: 100%;    
+    width: 70%;
+    padding-left: 2%;
+    margin-left: 5%;   
 }
 p{
     text-align: justify;
