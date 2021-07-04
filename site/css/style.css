@@ -31,3 +31,20 @@ p{
     border-radius: 5px;
     color: white;
 }
+.shadow-box{
+    box-shadow: 10px 10px 5px gray;
+    padding-left: 10px;
+}
+#stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(orangered cyan);
+}
+#baby{
+    border-left: 10px solid;
+    border-color: linear-gradient(orange cyan);
+
+}
+footer{
+    text-align: center;
+    color: gray;
+}
